@@ -1,8 +1,8 @@
 {
-    "tên" : "Phim Việt Nam" , 
-    "mô tả" : "https://t.me/cloudstream_extension_vn" , 
-    "manifestVersion" : 1 , 
-    "pluginLists" : [ 
-      "https://raw.githubusercontent.com/t23-02/cloudstream/refs/heads/main/plugins.json"
+    "name": "Vietnamese Movie",
+    "description": "https://t.me/cloudstream_extension_vn",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://gitlab.com/tearrs/movie/-/raw/main/plugins.json"
     ]
 }
