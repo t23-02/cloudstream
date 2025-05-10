@@ -1,8 +1,8 @@
 {
-    "name": "Vietnamese Movie",
-    "description": "https://t.me/cloudstream_extension_vn",
+    "name": "Cloudstream providers repository",
+    "description": "Cloudstream extension Repository",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/t23-02/cloudstream/refs/heads/main/plugins.json"
+      "https://gitlab.com/tearrs/movie/-/raw/main/plugins.json"
     ]
 }
