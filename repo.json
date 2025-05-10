@@ -1,8 +1,8 @@
 {
-    "name": "Cloudstream providers repository 1",
-    "description": "Cloudstream extension Repository 2",
+    "name": "Cloudstream providers repository 3",
+    "description": "Cloudstream extension Repository 3",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://gitlab.com/tearrs/movie/-/raw/main/plugins.json"
+      "https://raw.githubusercontent.com/recloudstream/extensions/builds/plugins.json"
     ]
 }
