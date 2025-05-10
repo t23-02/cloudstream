@@ -13,7 +13,7 @@
         ],
         "version": 11,
         "internalName": "AnimeHayProvider",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/AnimeHayProvider.cs3",
+        "url": "https://raw.githubusercontent.com/t23-02/cloudstream/refs/heads/main/AnimeHayProvider.cs3",
         "name": "AnimeHayProvider"
     },
     {
@@ -30,7 +30,7 @@
         ],
         "version": 14,
         "internalName": "AnimeVietsubProvider",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/AnimeVietsubProvider.cs3",
+        "url": "https://raw.githubusercontent.com/t23-02/cloudstream/refs/heads/main/AnimeVietsubProvider.cs3",
         "name": "AnimeVietsubProvider"
     },
     {
@@ -49,7 +49,7 @@
         "version": 16,
         "internalName": "BluPhimProvider",
         "description": "FullHD",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/BluPhimProvider.cs3",
+        "url": "https://raw.githubusercontent.com/t23-02/cloudstream/refs/heads/main/BluPhimProvider.cs3",
         "name": "BluPhimProvider"
     },
     {
@@ -68,7 +68,7 @@
         "version": 5,
         "internalName": "HHkungfuProvider",
         "description": "Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c vietsub",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/HHkungfuProvider.cs3",
+        "url": "https://raw.githubusercontent.com/t23-02/cloudstream/refs/heads/main/HHkungfuProvider.cs3",
         "name": "HHkungfuProvider"
     },
     {
@@ -86,7 +86,7 @@
         "version": 12,
         "internalName": "HHPandaProvider",
         "description": "Anime, Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/HHPandaProvider.cs3",
+        "url": "https://raw.githubusercontent.com/t23-02/cloudstream/refs/heads/main/HHPandaProvider.cs3",
         "name": "HHPandaProvider"
     },
     {
@@ -105,7 +105,7 @@
         ],
         "version": 10,
         "internalName": "KKPhimProvider",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/KKPhimProvider.cs3",
+        "url": "https://raw.githubusercontent.com/t23-02/cloudstream/refs/heads/main/KKPhimProvider.cs3",
         "name": "KKPhimProvider"
     },
     {
@@ -124,7 +124,7 @@
         ],
         "version": 8,
         "internalName": "NguonCProvider",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/NguonCProvider.cs3",
+        "url": "https://raw.githubusercontent.com/t23-02/cloudstream/refs/heads/main/NguonCProvider.cs3",
         "name": "NguonCProvider"
     },
     {
@@ -143,7 +143,7 @@
         ],
         "version": 2,
         "internalName": "OHiTVProvider",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/OHiTVProvider.cs3",
+        "url": "https://raw.githubusercontent.com/t23-02/cloudstream/refs/heads/main/OHiTVProvider.cs3",
         "name": "OHiTVProvider"
     },
     {
@@ -162,7 +162,7 @@
         ],
         "version": 10,
         "internalName": "OPhimProvider",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/OPhimProvider.cs3",
+        "url": "https://raw.githubusercontent.com/t23-02/cloudstream/refs/heads/main/OPhimProvider.cs3",
         "name": "OPhimProvider"
     },
     {
@@ -181,7 +181,7 @@
         "version": 12,
         "internalName": "PhimLongTiengProvider",
         "description": "Phim TVB, phim x\u01b0a",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/PhimLongTiengProvider.cs3",
+        "url": "https://raw.githubusercontent.com/t23-02/cloudstream/refs/heads/main/PhimLongTiengProvider.cs3",
         "name": "PhimLongTiengProvider"
     },
     {
@@ -199,7 +199,7 @@
         ],
         "version": 9,
         "internalName": "PhimMoiProvider",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/PhimMoiProvider.cs3",
+        "url": "https://raw.githubusercontent.com/t23-02/cloudstream/refs/heads/main/PhimMoiProvider.cs3",
         "name": "PhimMoiProvider"
     },
     {
@@ -219,7 +219,7 @@
         "version": 5,
         "internalName": "PhimTuoiThoProvider",
         "description": "Phim ho\u1ea1t h\u00ecnh tu\u1ed5i th\u01a1",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/PhimTuoiThoProvider.cs3",
+        "url": "https://raw.githubusercontent.com/t23-02/cloudstream/refs/heads/main/PhimTuoiThoProvider.cs3",
         "name": "PhimTuoiThoProvider"
     },
     {
@@ -238,7 +238,7 @@
         "version": 9,
         "internalName": "SubNhanhProvider",
         "description": "720p vietsub phim nhanh ",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/SubNhanhProvider.cs3",
+        "url": "https://raw.githubusercontent.com/t23-02/cloudstream/refs/heads/main/SubNhanhProvider.cs3",
         "name": "SubNhanhProvider"
     },
     {
@@ -258,7 +258,7 @@
         "version": 11,
         "internalName": "TvPhimProvider",
         "description": "720p thuy\u1ebft minh phim gi\u1ecdng hay",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/TvPhimProvider.cs3",
+        "url": "https://raw.githubusercontent.com/t23-02/cloudstream/refs/heads/main/TvPhimProvider.cs3",
         "name": "TvPhimProvider"
     },
     {
@@ -277,7 +277,7 @@
         "version": 9,
         "internalName": "VipPhimProvider",
         "description": "FullHD",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/VipPhimProvider.cs3",
+        "url": "https://raw.githubusercontent.com/t23-02/cloudstream/refs/heads/main/VipPhimProvider.cs3",
         "name": "VipPhimProvider"
     },
     {
@@ -296,7 +296,7 @@
         "version": 16,
         "internalName": "YanHH3DProvider",
         "description": "Ho\u1ea1t h\u00ecnh Trung Qu\u1ed1c thuy\u1ebft minh",
-        "url": "https://gitlab.com/tearrs/movie/-/raw/main/YanHH3DProvider.cs3",
+        "url": "https://raw.githubusercontent.com/t23-02/cloudstream/refs/heads/main/YanHH3DProvider.cs3",
         "name": "YanHH3DProvider"
     }
 ]
